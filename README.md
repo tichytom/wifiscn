@@ -1,2 +1,2 @@
 # wifiscn
-Scirpt to scan wifi network and try to connect verboden sites in Czech republic.
+Scrrpt to scan wifi network and try to connect forbidden sites in Czech republic.
